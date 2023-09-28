@@ -45,7 +45,6 @@ public class incuirProdutoTeste {
 	   
 	}
 	
-
 	@Given("que esteja com um produto adicionado no carrinho")
 	public void queEstejaComUmProdutoAdicionadoNoCarrinho() {
 	  
